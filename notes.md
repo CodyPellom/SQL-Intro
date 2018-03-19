@@ -48,3 +48,30 @@ the haredst thing: WHere do I make my API calls. THe call itself should or could
 some people "Get" there APIS on the top of every page instead of inside the parent component such as "Users"
 
 
+WHenever we update state, eeryhting has to rerender. componentWillount goes to State call. WHen passing down a method, im goin to update my stte
+
+
+Sql comparisons:
+
+Notes and documents in SQL look exactly like Excel, and the docs can actually be exported INTO excel. 
+
+Mongo (a non-SQL) is actually Faster than SQL based DBes. 
+
+Comparisons broke down:
+
+SQL :  Since late 1970s
+Relational model
+Tables (rows and columns)
+not easy to scale
+reliability, ACID compliance
+Examples Postgres, MySQL, SQLite
+
+***************************************************
+
+NoSQL  : Since late 2000s            	
+other data storage models
+Documents (js objects)	
+easier to scale	
+no promises :)	
+Examples MongoDB, Cassandra, Couchbase
+
